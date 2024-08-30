@@ -33,4 +33,4 @@ Follow the prompts to perform the desired actions. Input the corresponding numbe
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-[Youssef Adel](https://www.linkedin.com/in/youssef-adel/) - Embedded Systems Engineer and Software Developer.
+[Youssef Adel](https://www.linkedin.com/in/youssef-adel-921ba624b/) - Embedded Systems Engineer and Software Developer.
